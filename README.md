@@ -5,3 +5,4 @@ Trzecia sekcja.
 Zmiana w galezi test.
 Nowa opcja projektu
 Zmiana w main
+Tekst nowy
